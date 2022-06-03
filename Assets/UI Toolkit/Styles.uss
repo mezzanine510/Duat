@@ -1,0 +1,89 @@
+.button-style {
+    height: 71px;
+    width: 276px;
+    background-color: rgba(113, 113, 113, 0);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    font-size: 24px;
+    -unity-font-style: normal;
+    text-shadow: 0 0 0 rgb(108, 84, 51);
+    -unity-text-outline-width: 0;
+    position: relative;
+    bottom: 10px;
+    border-left-color: rgba(255, 210, 141, 0);
+    border-right-color: rgba(255, 210, 141, 0);
+    border-top-color: rgba(255, 210, 141, 0);
+    border-bottom-color: rgba(255, 210, 141, 0);
+    color: rgb(255, 210, 141);
+    -unity-font: none;
+    -unity-font-definition: url('project://database/Assets/Fonts/Megrim-Regular%20SDF.asset?fileID=11400000&guid=342a54797ef831a4b952d223803d9dba&type=2#Megrim-Regular SDF');
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.3s;
+    opacity: 1;
+}
+
+.button-style:hover {
+    height: 71px;
+    width: 276px;
+    background-color: rgba(58, 58, 58, 0);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    font-size: 30px;
+    -unity-font-style: normal;
+    text-shadow: 0 0 0 rgb(108, 84, 51);
+    -unity-text-outline-width: 0;
+    position: relative;
+    bottom: 10px;
+    border-left-color: rgba(255, 210, 141, 0);
+    border-right-color: rgba(255, 210, 141, 0);
+    border-top-color: rgba(255, 210, 141, 0);
+    border-bottom-color: rgba(255, 210, 141, 0);
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+.button-style:active {
+    height: 71px;
+    width: 276px;
+    background-color: rgb(156, 92, 0);
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    font-size: 24px;
+    -unity-font-style: bold;
+    text-shadow: 0 0 0 rgb(108, 84, 51);
+    -unity-text-outline-width: 0;
+    position: relative;
+    bottom: 10px;
+    border-left-color: rgb(255, 255, 146);
+    border-right-color: rgb(255, 255, 146);
+    border-top-color: rgb(255, 255, 146);
+    border-bottom-color: rgb(255, 255, 146);
+    color: rgb(255, 255, 255);
+    transition-duration: 0.2s;
+}
+
+.header {
+    font-size: 40%;
+    -unity-font-definition: url('project://database/Assets/Fonts/Megrim-Regular%20SDF.asset?fileID=11400000&guid=342a54797ef831a4b952d223803d9dba&type=2#Megrim-Regular SDF');
+    opacity: 1;
+    color: rgba(255, 255, 255, 255);
+    transition-duration: 0s;
+}
