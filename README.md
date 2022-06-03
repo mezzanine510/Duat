@@ -1,18 +1,20 @@
 # Duat
-A day in the life of Anubis.
-My submission for the GameDev.tv Game Jam 2022.
-Built in Unity 2021.
+A day in the life of Anubis.<br />
+My submission for the GameDev.tv Game Jam 2022.<br />
+Built with Unity 2021.<br />
 
 ##
 
 # Play the game on your browser
-https://mezzanine510.itch.io/duat
+https://mezzanine510.itch.io/duat<br />
 
 ##
 
 # Assets used
-Sand Texture:  https://substance3d.adobe.com/community-assets/assets/2fc8075c17fff494e54480cb9f...
-Sandstone Texture:  https://substance3d.adobe.com/community-assets/assets/e36733c0af2bb3d1286fe331ca...
-Character Body: https://www.mixamo.com/
-Character Head: https://sketchfab.com/3d-models/anubis-bust-636c098547e24805a796cca1773aa9bb
-Base Character Walk Animation: https://www.mixamo.com/
+Sand Texture:  https://substance3d.adobe.com/community-assets/assets/2fc8075c17fff494e54480cb9f45c7269ac6c044<br />
+Sandstone Texture:  https://substance3d.adobe.com/community-assets/assets/e36733c0af2bb3d1286fe331ca65d100c24249f6<br />
+Character Body: https://www.mixamo.com/<br />
+Character Head: https://sketchfab.com/3d-models/anubis-bust-636c098547e24805a796cca1773aa9bb<br />
+Base Character Walk Animation: https://www.mixamo.com/<br />
+<br />
+All other music, sounds, textures, models, animations (including modifications like walking with the staff)  and VFX were created by me.
