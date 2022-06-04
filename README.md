@@ -1,12 +1,19 @@
 # Duat
 A day in the life of Anubis.<br />
 My submission for the GameDev.tv Game Jam 2022.<br />
-Built with Unity 2021.<br />
 
 ##
 
 # Play the game on your browser
 https://mezzanine510.itch.io/duat<br />
+
+##
+
+# Tools used
+Unity 2021
+Blender
+Substance
+Cubase
 
 ##
 
