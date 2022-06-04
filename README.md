@@ -1,6 +1,7 @@
 # Duat
 A day in the life of Anubis. <br />
-My submission for the GameDev.tv Game Jam 2022. <br />
+<br />
+I created this in 10 days as my submission to the GameDev.tv Game Jam 2022. <br />
 <br />
 
 ## Play the game on your browser
