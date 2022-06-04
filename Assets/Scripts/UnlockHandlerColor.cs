@@ -29,6 +29,7 @@ public class UnlockHandlerColor : MonoBehaviour
         foreach (GameObject target in unlockTargets)
         {
             unlockColors[colorCounter] = target.GetComponent<BarrierKeyhole>().color;
+            Debug.Log("<color=green>" + unlockColors[colorCounter] + "</color>");
             colorCounter++;
         }
     }
