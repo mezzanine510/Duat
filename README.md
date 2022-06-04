@@ -10,10 +10,10 @@ https://mezzanine510.itch.io/duat<br />
 ##
 
 # Tools used
-Unity 2021
-Blender
-Substance
-Cubase
+Unity 2021<br />
+Blender<br />
+Substance<br />
+Cubase<br />
 
 ##
 
